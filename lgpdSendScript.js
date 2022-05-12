@@ -1297,5 +1297,4 @@ Raul Jungmann
 Eliseu Padilha
 
 Este texto não substitui o publicado no DOU de 15.8.2018, e republicado parcialmente em 15.8.2018 - Edição extra
-
-*
+`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
